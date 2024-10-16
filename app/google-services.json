@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202706856975",
+    "project_id": "thechatbot-137ae",
+    "storage_bucket": "thechatbot-137ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202706856975:android:003fc8172271f1f010c77a",
+        "android_client_info": {
+          "package_name": "com.example.mychatroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3fX247C_bT_7H4UgRPVBQiykKcIHXEWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
